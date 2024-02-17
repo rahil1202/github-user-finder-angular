@@ -33,7 +33,7 @@ This project was generated with Angular CLI version 15.2.6. Here are some key co
 
 ## Live Link 🌐
 
-Check out the live version of GithubUserFinder: [Live Demo](#your-live-link-goes-here)
+Check out the live version of GithubUserFinder: [Live Demo](your-live-link-goes-here)
 
 ## Screenshots 📷
 
