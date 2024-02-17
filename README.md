@@ -1,4 +1,4 @@
-# GithubUserFinder Project - Angular 🚀
+# GithubUserFinder Project 🚀
 
 ## Overview
 
@@ -30,6 +30,17 @@ This project was generated with Angular CLI version 15.2.6. Here are some key co
 3. Run `npm install` to install dependencies.
 4. Run `ng serve` to start the development server.
 5. Open your browser and go to `http://localhost:4200/` to explore the GithubUserFinder app!
+
+## Live Link 🌐
+
+Check out the live version of GithubUserFinder: [Live Demo](#your-live-link-goes-here)
+
+## Screenshots 📷
+
+Here are some snapshots of the GithubUserFinder app in action:
+
+![Screenshot 1](#screenshot-1-link-goes-here)
+![Screenshot 2](#screenshot-2-link-goes-here)
 
 ## Contribution Guidelines 🤝
 
