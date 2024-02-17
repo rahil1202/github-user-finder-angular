@@ -4,6 +4,18 @@
 
 Welcome to the GithubUserFinder project! This Angular application allows you to search for GitHub users and explore their profiles.
 
+## Live Link 🌐
+
+Check out the live version of GithubUserFinder: [Live Demo](https://github-user-finder-rahil1202.vercel.app/)
+
+## Screenshots 📷
+
+Here are some snapshots of the GithubUserFinder app in action:
+
+![image](https://github.com/rahil1202/github-user-finder-angular/assets/104057403/3799f59d-f788-4d8a-b512-e03a4acfd535)
+![image](https://github.com/rahil1202/github-user-finder-angular/assets/104057403/2d179146-75cf-4977-8cd9-f6efc1d09760)
+
+
 ## Features 🌟
 
 - **User Search:** Easily search for GitHub users by their usernames.
@@ -31,16 +43,7 @@ This project was generated with Angular CLI version 15.2.6. Here are some key co
 4. Run `ng serve` to start the development server.
 5. Open your browser and go to `http://localhost:4200/` to explore the GithubUserFinder app!
 
-## Live Link 🌐
 
-Check out the live version of GithubUserFinder: [Live Demo](your-live-link-goes-here)
-
-## Screenshots 📷
-
-Here are some snapshots of the GithubUserFinder app in action:
-
-![Screenshot 1](#screenshot-1-link-goes-here)
-![Screenshot 2](#screenshot-2-link-goes-here)
 
 ## Contribution Guidelines 🤝
 
